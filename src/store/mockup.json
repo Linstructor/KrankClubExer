@@ -1,0 +1,95 @@
+{"data": [
+  {
+    "guid": "1b1c052d-8875-4435-baee-bd1645497a33",
+    "data": {
+      "title": "tempor magna",
+      "name": "Moses Hatfield",
+      "duration": "0h47",
+      "price": 14.11,
+      "hashtags": [
+        "#sit",
+        "#cillum"
+      ],
+      "day": "Tu.12 ",
+      "hour": "02.37 PM",
+      "status": true,
+      "favorite": false,
+      "organizerPhoto": "src/assets/head.png"
+    }
+  },
+  {
+    "guid": "ecdf09ca-0b8c-4677-8743-3f41c4db7eda",
+    "data": {
+      "title": "sunt",
+      "name": "Bernadette Reed",
+      "duration": "0h58",
+      "price": 9.25,
+      "hashtags": [
+        "#ipsum"
+      ],
+      "day": "Sa.02 ",
+      "hour": "02.15 AM",
+      "status": false,
+      "favorite": true,
+      "organizerPhoto": "src/assets/logo.png"
+    }
+  },
+  {
+    "guid": "f9bc974f-bb32-4d45-bbfa-cb805e0d21da",
+    "data": {
+      "title": "do est id ut nostrud",
+      "name": "Stephenson Stokes",
+      "duration": "2h24",
+      "price": 12.49,
+      "hashtags": [
+        "#irure",
+        "#officia",
+        "#ipsum"
+      ],
+      "day": "Fr.01 ",
+      "hour": "06.46 AM",
+      "status": true,
+      "favorite": false,
+      "organizerPhoto": "src/assets/nobody_m.original.jpg"
+    }
+  },
+  {
+    "guid": "dcbe8b86-308d-4e63-a7dd-d59c70b644b4",
+    "data": {
+      "title": "nulla est est",
+      "name": "Marissa Mendoza",
+      "duration": "1h43",
+      "price": 8.61,
+      "hashtags": [
+        "#laboris",
+        "#mollit",
+        "#labore"
+      ],
+      "day": "We.27 ",
+      "hour": "05.58 AM",
+      "status": false,
+      "favorite": false,
+      "organizerPhoto": "src/assets/profile-img.jpg"
+    }
+  },
+  {
+    "guid": "eca1e8de-e373-4d80-bb69-ed32adc87c0b",
+    "data": {
+      "title": "reprehenderit nostrud non cupidatat velit",
+      "name": "Berg Tanner",
+      "duration": "0h19",
+      "price": 6.57,
+      "hashtags": [
+        "#esse",
+        "#tempor",
+        "#sunt"
+      ],
+      "day": "Fr.15 ",
+      "hour": "01.28 AM",
+      "status": false,
+      "favorite": true,
+      "organizerPhoto": "src/assets/signup_female.png"
+    }
+  }
+]
+}
