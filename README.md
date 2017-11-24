@@ -1,6 +1,7 @@
 # Exercice Krank Club
 
 > Mobile vue exercice
+>Mockup viable uniquement sur fenetre mobile (telephone)
 
 ## Build Setup
 
